@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.20)  13 JUN 2013 22:52
+=======
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.6)  13 JUN 2013 23:27
+>>>>>>> 014e8dc9e3008abba4a8f37739492020cfcf8560
 entering extended mode
 **C:/Users/mwoodruf/repo/ece432/FSK_Report/bare_conf.tex
 (C:/Users/mwoodruf/repo/ece432/FSK_Report/bare_conf.tex
@@ -343,7 +347,7 @@ kinson-layout.png> <C:/Users/mwoodruf/repo/ece432/FSK_Report/bandpass-pics/bpf2
 File: diode-pics/diodedetectorSimplifiedSchematic.png Graphic file (type png)
  <use diode-pics/diodedetectorSimplifiedSchematic.png>
 Package pdftex.def Info: diode-pics/diodedetectorSimplifiedSchematic.png used o
-n input line 115.
+n input line 117.
 (pdftex.def)             Requested size: 180.67499pt x 82.39195pt.
 
 <diode-pics/diodedetectormodel.png, id=31, 1011.78pt x 432.86719pt>
@@ -351,7 +355,7 @@ File: diode-pics/diodedetectormodel.png Graphic file (type png)
 
 <use diode-pics/diodedetectormodel.png>
 Package pdftex.def Info: diode-pics/diodedetectormodel.png used on input line 1
-23.
+25.
 (pdftex.def)             Requested size: 180.67499pt x 77.29846pt.
 
 <diode-pics/diodedetectorSimplifiedSmithChart.png, id=32, 512.66531pt x 486.316
@@ -359,14 +363,14 @@ Package pdftex.def Info: diode-pics/diodedetectormodel.png used on input line 1
 File: diode-pics/diodedetectorSimplifiedSmithChart.png Graphic file (type png)
  <use diode-pics/diodedetectorSimplifiedSmithChart.png>
 Package pdftex.def Info: diode-pics/diodedetectorSimplifiedSmithChart.png used 
-on input line 131.
+on input line 133.
 (pdftex.def)             Requested size: 180.67499pt x 171.38591pt.
 
 <diode-pics/smithcharttool.png, id=33, 1201.48875pt x 653.44125pt>
 File: diode-pics/smithcharttool.png Graphic file (type png)
 
 <use diode-pics/smithcharttool.png>
-Package pdftex.def Info: diode-pics/smithcharttool.png used on input line 139.
+Package pdftex.def Info: diode-pics/smithcharttool.png used on input line 141.
 (pdftex.def)             Requested size: 180.67499pt x 98.26122pt.
 
 <diode-pics/diodedetectorsfinalchematic.png, id=34, 619.56468pt x 496.85625pt>
@@ -374,8 +378,9 @@ File: diode-pics/diodedetectorsfinalchematic.png Graphic file (type png)
 
 <use diode-pics/diodedetectorsfinalchematic.png>
 Package pdftex.def Info: diode-pics/diodedetectorsfinalchematic.png used on inp
-ut line 159.
+ut line 161.
 (pdftex.def)             Requested size: 180.67499pt x 144.88824pt.
+<<<<<<< HEAD
 
 Underfull \vbox (badness 5771) has occurred while \output is active []
 
@@ -386,12 +391,21 @@ ng> <C:/Users/mwoodruf/repo/ece432/FSK_Report/diode-pics/diodedetectormodel.png
 mithChart.png> <C:/Users/mwoodruf/repo/ece432/FSK_Report/diode-pics/smithchartt
 ool.png> <C:/Users/mwoodruf/repo/ece432/FSK_Report/diode-pics/diodedetectorsfin
 alchematic.png>]
+=======
+ [3 <C:/Users/HP-Elitebook/repos/ece432/FSK_Report/bandpass-pics/bpf26.png> <C:
+/Users/HP-Elitebook/repos/ece432/FSK_Report/diode-pics/diodedetectorSimplifiedS
+chematic.png> <C:/Users/HP-Elitebook/repos/ece432/FSK_Report/diode-pics/diodede
+tectormodel.png> <C:/Users/HP-Elitebook/repos/ece432/FSK_Report/diode-pics/diod
+edetectorSimplifiedSmithChart.png> <C:/Users/HP-Elitebook/repos/ece432/FSK_Repo
+rt/diode-pics/smithcharttool.png> <C:/Users/HP-Elitebook/repos/ece432/FSK_Repor
+t/diode-pics/diodedetectorsfinalchematic.png>]
+>>>>>>> 014e8dc9e3008abba4a8f37739492020cfcf8560
 <diode-pics/diodedetectorSmithmatched-final.png, id=44, 517.18219pt x 474.27188
 pt>
 File: diode-pics/diodedetectorSmithmatched-final.png Graphic file (type png)
  <use diode-pics/diodedetectorSmithmatched-final.png>
 Package pdftex.def Info: diode-pics/diodedetectorSmithmatched-final.png used on
- input line 170.
+ input line 172.
 (pdftex.def)             Requested size: 180.67499pt x 165.68646pt.
 
 <diode-pics/diodedetectorS11matched-final.png, id=45, 571.38469pt x 478.03593pt
@@ -399,7 +413,7 @@ Package pdftex.def Info: diode-pics/diodedetectorSmithmatched-final.png used on
 File: diode-pics/diodedetectorS11matched-final.png Graphic file (type png)
  <use diode-pics/diodedetectorS11matched-final.png>
 Package pdftex.def Info: diode-pics/diodedetectorS11matched-final.png used on i
-nput line 178.
+nput line 180.
 (pdftex.def)             Requested size: 180.67499pt x 151.15836pt.
 
 <diode-pics/diodedetectorlayout.png, id=46, 484.81125pt x 473.51906pt>
@@ -407,7 +421,7 @@ File: diode-pics/diodedetectorlayout.png Graphic file (type png)
 
 <use diode-pics/diodedetectorlayout.png>
 Package pdftex.def Info: diode-pics/diodedetectorlayout.png used on input line 
-186.
+188.
 (pdftex.def)             Requested size: 180.67499pt x 176.47095pt.
 
 Underfull \vbox (badness 1796) has occurred while \output is active []
@@ -418,7 +432,7 @@ File: diode-pics/diodedetectorLab24Smith.png Graphic file (type png)
 
 <use diode-pics/diodedetectorLab24Smith.png>
 Package pdftex.def Info: diode-pics/diodedetectorLab24Smith.png used on input l
-ine 201.
+ine 203.
 (pdftex.def)             Requested size: 180.67499pt x 134.63718pt.
 
 <diode-pics/diodedetectorLab24S11.png, id=48, 633.86812pt x 459.21562pt>
@@ -426,7 +440,7 @@ File: diode-pics/diodedetectorLab24S11.png Graphic file (type png)
 
 <use diode-pics/diodedetectorLab24S11.png>
 Package pdftex.def Info: diode-pics/diodedetectorLab24S11.png used on input lin
-e 209.
+e 211.
 (pdftex.def)             Requested size: 180.67499pt x 130.89182pt.
 
 <diode-pics/diodedetectorLab26Smith.png, id=49, 654.19406pt x 469.755pt>
@@ -434,7 +448,7 @@ File: diode-pics/diodedetectorLab26Smith.png Graphic file (type png)
 
 <use diode-pics/diodedetectorLab26Smith.png>
 Package pdftex.def Info: diode-pics/diodedetectorLab26Smith.png used on input l
-ine 217.
+ine 219.
 (pdftex.def)             Requested size: 180.67499pt x 129.73137pt.
 
 <diode-pics/diodedetectorLab26S11.png, id=50, 655.69969pt x 462.22687pt>
@@ -442,20 +456,20 @@ File: diode-pics/diodedetectorLab26S11.png Graphic file (type png)
 
 <use diode-pics/diodedetectorLab26S11.png>
 Package pdftex.def Info: diode-pics/diodedetectorLab26S11.png used on input lin
-e 225.
+e 227.
 (pdftex.def)             Requested size: 180.67499pt x 127.36316pt.
 
 <fsk.jpg, id=51, 2538.48375pt x 868.24374pt>
 File: fsk.jpg Graphic file (type jpg)
  <use fsk.jpg>
-Package pdftex.def Info: fsk.jpg used on input line 236.
+Package pdftex.def Info: fsk.jpg used on input line 238.
 (pdftex.def)             Requested size: 180.67499pt x 61.79013pt.
 
 <diode-pics/output_chart.PNG, id=52, 358.33875pt x 213.04594pt>
 File: diode-pics/output_chart.PNG Graphic file (type png)
 
 <use diode-pics/output_chart.PNG>
-Package pdftex.def Info: diode-pics/output_chart.PNG used on input line 243.
+Package pdftex.def Info: diode-pics/output_chart.PNG used on input line 245.
 (pdftex.def)             Requested size: 180.67499pt x 107.41992pt.
  [4 <C:/Users/mwoodruf/repo/ece432/FSK_Report/diode-pics/diodedetectorSmithmatc
 hed-final.png> <C:/Users/mwoodruf/repo/ece432/FSK_Report/diode-pics/diodedetect
@@ -486,6 +500,7 @@ Here is how much of TeX's memory you used:
  6307 multiletter control sequences out of 15000+200000
  39217 words of font info for 73 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
+<<<<<<< HEAD
  27i,9n,35p,1443b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x8
 6)/miktex/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/miktex/fonts/
@@ -495,6 +510,18 @@ ublic/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/miktex/fonts/type1/urw/times
 :/Program Files (x86)/miktex/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files
  (x86)/miktex/fonts/type1/urw/times/utmri8a.pfb>
 Output written on bare_conf.pdf (5 pages, 1378953 bytes).
+=======
+ 27i,9n,35p,1036b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program File
+s (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times
+/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pf
+b>
+Output written on bare_conf.pdf (5 pages, 1379243 bytes).
+>>>>>>> 014e8dc9e3008abba4a8f37739492020cfcf8560
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
