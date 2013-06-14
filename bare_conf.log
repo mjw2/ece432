@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.6)  13 JUN 2013 16:22
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.20)  13 JUN 2013 16:31
 entering extended mode
-**C:/Users/HP-Elitebook/Desktop/ece432-finalreport/bare_conf.tex
-(C:/Users/HP-Elitebook/Desktop/ece432-finalreport/bare_conf.tex
+**C:/Users/mwoodruf/repo/ece432/bare_conf.tex
+(C:/Users/mwoodruf/repo/ece432/bare_conf.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\HP-Elitebook\Desktop\ece432-finalreport\IEEEtran.cls
+(C:\Users\mwoodruf\repo\ece432\IEEEtran.cls
 Document Class: IEEEtran 2012/11/21 V1.8c by Harald Hanche-Olsen and Anders Chr
 istensen
 -- Based on V1.7a by Michael Shell
@@ -26,7 +26,7 @@ istensen
 \@IEEEtrantmptoksA=\toks14
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 373.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+("C:\Program Files (x86)\miktex\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
@@ -99,24 +99,24 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtmpitemindent=\dimen116
 \c@IEEEbiography=\count90
 \@IEEEtranrubishbin=\box26
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+) ("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks15
 \ex@=\dimen117
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen118
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count91
@@ -157,21 +157,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(C:\Users\HP-Elitebook\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+("C:\Program Files (x86)\miktex\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("C:\Program Files (x86)\miktex\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files (x86)\miktex\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Program Files (x86)\miktex\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Program Files (x86)\miktex\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count103
@@ -186,20 +186,20 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks20
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files (x86)\miktex\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
@@ -207,7 +207,7 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
 )
-(C:\Users\HP-Elitebook\Desktop\ece432-finalreport\bare_conf.aux)
+(C:\Users\mwoodruf\repo\ece432\bare_conf.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -221,8 +221,7 @@ LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 
-(C:\Users\HP-Elitebook\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mki
-i
+("C:\Program Files (x86)\miktex\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count104
 \scratchdimen=\dimen128
@@ -303,14 +302,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1{C:/Users/HP-Elitebook/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+ [1{C:/Users/mwoodruf/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
- <C:/Users/HP-Elitebook/Desktop/ece432-finalreport/amplifier_simulation_pics/MM
-IC_unmatched_circuit-with-transmission-lines.PNG> <C:/Users/HP-Elitebook/Deskto
-p/ece432-finalreport/amplifier_simulation_pics/MMIC_matched_circuit-with-transm
-ission-lines.PNG>] <wilkinson-pics/wilkinson-schematic.png, id=14, 582.67688pt 
-x 505.89pt>
+ <C:/Users/mwoodruf/repo/ece432/amplifier_simulation_pics/MMIC_unmatched_circui
+t-with-transmission-lines.PNG> <C:/Users/mwoodruf/repo/ece432/amplifier_simulat
+ion_pics/MMIC_matched_circuit-with-transmission-lines.PNG>]
+<wilkinson-pics/wilkinson-schematic.png, id=14, 582.67688pt x 505.89pt>
 File: wilkinson-pics/wilkinson-schematic.png Graphic file (type png)
 
 <use wilkinson-pics/wilkinson-schematic.png>
@@ -347,13 +345,12 @@ File: bandpass-pics/bpf26.png Graphic file (type png)
 <use bandpass-pics/bpf26.png>
 Package pdftex.def Info: bandpass-pics/bpf26.png used on input line 100.
 (pdftex.def)             Requested size: 180.67499pt x 159.99911pt.
- [2 <C:/Users/HP-Elitebook/Desktop/ece432-finalreport/amplifier_simulation_pics
-/lnaS21.PNG> <C:/Users/HP-Elitebook/Desktop/ece432-finalreport/amplifier_simula
-tion_pics/lnaSchematic.PNG> <C:/Users/HP-Elitebook/Desktop/ece432-finalreport/w
-ilkinson-pics/wilkinson-schematic.png> <C:/Users/HP-Elitebook/Desktop/ece432-fi
-nalreport/wilkinson-pics/wilkinson-simulation.png> <C:/Users/HP-Elitebook/Deskt
-op/ece432-finalreport/wilkinson-pics/wilkinson-layout.png> <C:/Users/HP-Elitebo
-ok/Desktop/ece432-finalreport/bandpass-pics/bpf24.png>]
+ [2 <C:/Users/mwoodruf/repo/ece432/amplifier_simulation_pics/lnaS21.PNG> <C:/Us
+ers/mwoodruf/repo/ece432/amplifier_simulation_pics/lnaSchematic.PNG> <C:/Users/
+mwoodruf/repo/ece432/wilkinson-pics/wilkinson-schematic.png> <C:/Users/mwoodruf
+/repo/ece432/wilkinson-pics/wilkinson-simulation.png> <C:/Users/mwoodruf/repo/e
+ce432/wilkinson-pics/wilkinson-layout.png> <C:/Users/mwoodruf/repo/ece432/bandp
+ass-pics/bpf24.png>]
 <diode-pics/diodedetectorSimplifiedSchematic.png, id=29, 1010.27437pt x 460.721
 25pt>
 File: diode-pics/diodedetectorSimplifiedSchematic.png Graphic file (type png)
@@ -416,13 +413,12 @@ File: diode-pics/diodedetectorlayout.png Graphic file (type png)
 Package pdftex.def Info: diode-pics/diodedetectorlayout.png used on input line 
 185.
 (pdftex.def)             Requested size: 180.67499pt x 176.47095pt.
- [3 <C:/Users/HP-Elitebook/Desktop/ece432-finalreport/bandpass-pics/bpf26.png> 
-<C:/Users/HP-Elitebook/Desktop/ece432-finalreport/diode-pics/diodedetectorSimpl
-ifiedSchematic.png> <C:/Users/HP-Elitebook/Desktop/ece432-finalreport/diode-pic
-s/diodedetectormodel.png> <C:/Users/HP-Elitebook/Desktop/ece432-finalreport/dio
-de-pics/diodedetectorSimplifiedSmithChart.png> <C:/Users/HP-Elitebook/Desktop/e
-ce432-finalreport/diode-pics/smithcharttool.png> <C:/Users/HP-Elitebook/Desktop
-/ece432-finalreport/diode-pics/diodedetectorsfinalchematic.png>]
+ [3 <C:/Users/mwoodruf/repo/ece432/bandpass-pics/bpf26.png> <C:/Users/mwoodruf/
+repo/ece432/diode-pics/diodedetectorSimplifiedSchematic.png> <C:/Users/mwoodruf
+/repo/ece432/diode-pics/diodedetectormodel.png> <C:/Users/mwoodruf/repo/ece432/
+diode-pics/diodedetectorSimplifiedSmithChart.png> <C:/Users/mwoodruf/repo/ece43
+2/diode-pics/smithcharttool.png> <C:/Users/mwoodruf/repo/ece432/diode-pics/diod
+edetectorsfinalchematic.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -460,16 +456,16 @@ e 224.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4 <C:/Users/HP-Elitebook/Desktop/ece432-finalreport/diode-pics/diodedetectorS
-mithmatched-final.png> <C:/Users/HP-Elitebook/Desktop/ece432-finalreport/diode-
-pics/diodedetectorS11matched-final.png> <C:/Users/HP-Elitebook/Desktop/ece432-f
-inalreport/diode-pics/diodedetectorlayout.png> <C:/Users/HP-Elitebook/Desktop/e
-ce432-finalreport/diode-pics/diodedetectorLab24Smith.png> <C:/Users/HP-Eliteboo
-k/Desktop/ece432-finalreport/diode-pics/diodedetectorLab24S11.png> <C:/Users/HP
--Elitebook/Desktop/ece432-finalreport/diode-pics/diodedetectorLab26Smith.png>]
-<fsk.jpg, id=60, 2538.48375pt x 868.24374pt>
+ [4 <C:/Users/mwoodruf/repo/ece432/diode-pics/diodedetectorSmithmatched-final.p
+ng> <C:/Users/mwoodruf/repo/ece432/diode-pics/diodedetectorS11matched-final.png
+> <C:/Users/mwoodruf/repo/ece432/diode-pics/diodedetectorlayout.png> <C:/Users/
+mwoodruf/repo/ece432/diode-pics/diodedetectorLab24Smith.png> <C:/Users/mwoodruf
+/repo/ece432/diode-pics/diodedetectorLab24S11.png> <C:/Users/mwoodruf/repo/ece4
+32/diode-pics/diodedetectorLab26Smith.png>] <fsk.jpg, id=60, 2538.48375pt x 868
+.24374pt>
 File: fsk.jpg Graphic file (type jpg)
- <use fsk.jpg>
+
+<use fsk.jpg>
 Package pdftex.def Info: fsk.jpg used on input line 235.
 (pdftex.def)             Requested size: 180.67499pt x 61.79013pt.
 
@@ -484,27 +480,26 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5 <C:/Users/HP-Elitebook/Desktop/ece432-finalreport/diode-pics/diodedetectorLa
-b26S11.png> <C:/Users/HP-Elitebook/Desktop/ece432-finalreport/fsk.jpg>]
-(C:\Users\HP-Elitebook\Desktop\ece432-finalreport\bare_conf.aux)
+[5 <C:/Users/mwoodruf/repo/ece432/diode-pics/diodedetectorLab26S11.png> <C:/Use
+rs/mwoodruf/repo/ece432/fsk.jpg>] (C:\Users\mwoodruf\repo\ece432\bare_conf.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
  3029 strings out of 493921
- 45629 string characters out of 3144856
+ 45204 string characters out of 3146471
  106520 words of memory out of 3000000
  6301 multiletter control sequences out of 15000+200000
  38121 words of font info for 72 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 27i,9n,35p,1311b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
-s/type1/urw/times/utmri8a.pfb>
+ 27i,9n,35p,1292b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/miktex/fonts/enc/dvips/fontname/8r.enc}<C:/Program Fi
+les (x86)/miktex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x8
+6)/miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/mikte
+x/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/miktex/fonts/type1/u
+rw/times/utmr8a.pfb><C:/Program Files (x86)/miktex/fonts/type1/urw/times/utmri8
+a.pfb>
 Output written on bare_conf.pdf (5 pages, 1352488 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
