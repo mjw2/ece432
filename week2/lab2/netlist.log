@@ -1,0 +1,20 @@
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="lab2_lib:deembed:schematic"
+#uselib "ckt" , "S2P"
+S2P:SNP1  N__0 N__1 0 File="C:\Users\HP-Elitebook\Desktop\week2\data\FETS2P.S2P" Type="touchstone" InterpMode="linear" InterpDom="" ExtrapMode="constant" Temp=27.0 CheckPassivity=0 
+Port:Term1  N__7 0 Num=1 Z=50 Ohm Noise=yes 
+Port:Term2  N__10 0 Num=2 Z=50 Ohm Noise=yes 
+TLIN:TL1  N__7 N__0 Z=50.0 Ohm E=-36.23 tune{ -180 to 180 by 0.01 } F=1 GHz 
+TLIN:TL2  N__1 N__10 Z=50.0 Ohm E=-36.23 tune{ -180 to 135 by 0.1 } F=1 GHz 
+S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 \
+SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
+
+SweepPlan: SP1_stim Start=300 kHz Stop=20 GHz Step=0.1 GHZ 
+
+OutputPlan:SP1_Output \
+      Type="Output" \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
