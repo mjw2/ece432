@@ -36,7 +36,7 @@ The LNA design is comprised of Minicircuit's low noise SAV-541+ transistor.  Con
 	Supply Voltage & 3.3 & (V)\\
 	Supply Current (max) & 100 & (mA)\\
     \end{tabular}
-\label{tab:fsk24}
+\label{tab:specs}
 \end{table}
 
 Figure~\ref{fig:dccircuit} shows the bias network for the transistor circuit.  Figure~\ref{fig:dcvalues} shows the DC measurements of the parameters of interest.  Figure~\ref{fig:sparamresult} shows the S-Parameter comparison between the bias network circuit and the manufacturer S2P data.  The bias network shows little discrepency but works as expected.
@@ -87,7 +87,11 @@ Figure~\ref{fig:designcuidecircuitstabilized} shows added feedback to the transi
 \label{fig:designcuidesimulationstabilized}
 \end{figure}
 
-The circuit now needs transmission line in order to be able to manufacture the board.  As expected, adding transmission line to the circuit caused the transistor to become potentially unstable.  Thus, it was required to tune the feedback components again.  Figure~\ref{fig:finalstabcircuit} shows the finalized stabilizing circuit for the SAV-541+ transistor.  Figure~\ref{fig:finalstabsimulation} shows the design guide plots.  By observing the $mu_{load}$/$mu_{source}$, the circuit will be unconditionally stable between 0.1 GHz - 6 GHz.  In addition, the gain is above 10 dB.
+The circuit now needs transmission line in order to be able to manufacture the board.  As expected, adding transmission line to the circuit caused the transistor to become potentially unstable.  Thus, it was required to tune the feedback components again.  Figure~\ref{fig:finalstabcircuit} shows the finalized stabilizing circuit for the SAV-541+ transistor.  Figure~\ref{fig:finalstabsimulation} shows the design guide plots and shows the gain is above 10 dB.
+
+This circuit was mechanicaly routed on what was assumed to be FR4, this was however not the case. After assembly the LNA was analyzed using an PNA and found not produce any gain. The circuit was then powered with a bench supply and it was noticed that the current draw of the biasing network veried significantly with time. Further analysis was conducted using the PNA and it was determined that the amplifier was oscillating at various frequencies. The matching network and feedback network was checked to ensure that the proper values had been used. No errors were found. Despite our best efforts this design was never observed to provide stable gain.
+
+Due to the extended period of time that was spent working on the LNA, several other labs were significantly delayed. The amount of work piling up for the FSK project lead to abandoning the LNA's developement. A MMIC Amplifier was used instead to good effect. 
 
 \begin{figure}[!h]
 \centering
@@ -111,6 +115,8 @@ Figure~\ref{fig:lnaLayout} shows the layout which will be used to manufacture th
 \label{fig:lnaLayout}
 \end{figure}
 
+\section{Conclusison}
+In summary, an LNA designed to the specifications given in Table \ref{tab:specs} was designed, simulated, and built. The design and simulation of the LNA were consitent with expectations. The assembled LNA was inconsistent with both the simulaitons and the designer's expectations. The root cause of this inconsistancy was not issolated despite attempts to do so. The authors' working assumption is that the substrate used had a significant variation from typical FR4 in terms of $\Epsilon_r& and that it was this variation that caused the instability. Other possibilties include mismarked components or damaged components. 
 \begin{thebibliography}{1}
 \bibitem{payne}
 K. Payne, "Practical RF Amplifier Design Using the Available Gain Procedure and the Advanced Design System EM/Circuit Co-Simulation Capability," Agilent Technologies (5990-3356EN), 2008.
