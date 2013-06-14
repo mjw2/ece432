@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.6)  13 JUN 2013 19:21
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.6)  13 JUN 2013 19:28
 entering extended mode
 **C:/Users/HP-Elitebook/repos/ece432/FSK_Report/bare_conf.tex
 (C:/Users/HP-Elitebook/repos/ece432/FSK_Report/bare_conf.tex
@@ -244,7 +244,7 @@ PNG Graphic file (type png)
 <use amplifier_simulation_pics/MMIC_unmatched_circuit-with-transmission-lines.P
 NG>
 Package pdftex.def Info: amplifier_simulation_pics/MMIC_unmatched_circuit-with-
-transmission-lines.PNG used on input line 32.
+transmission-lines.PNG used on input line 30.
 (pdftex.def)             Requested size: 180.67499pt x 162.57664pt.
 
 <amplifier_simulation_pics/MMIC_matched_circuit-with-transmission-lines.PNG, id
@@ -255,14 +255,14 @@ G Graphic file (type png)
 <use amplifier_simulation_pics/MMIC_matched_circuit-with-transmission-lines.PNG
 >
 Package pdftex.def Info: amplifier_simulation_pics/MMIC_matched_circuit-with-tr
-ansmission-lines.PNG used on input line 39.
+ansmission-lines.PNG used on input line 37.
 (pdftex.def)             Requested size: 180.67499pt x 191.11786pt.
  <amplifier_simulation_pics/lnaS21.PNG, id=4, 752.8125pt x 491.58656pt>
 File: amplifier_simulation_pics/lnaS21.PNG Graphic file (type png)
 
 <use amplifier_simulation_pics/lnaS21.PNG>
 Package pdftex.def Info: amplifier_simulation_pics/lnaS21.PNG used on input lin
-e 46.
+e 44.
 (pdftex.def)             Requested size: 180.67499pt x 117.97568pt.
 
 
@@ -273,7 +273,7 @@ File: amplifier_simulation_pics/lnaSchematic.PNG Graphic file (type png)
 
 <use amplifier_simulation_pics/lnaSchematic.PNG>
 Package pdftex.def Info: amplifier_simulation_pics/lnaSchematic.PNG used on inp
-ut line 53.
+ut line 51.
 (pdftex.def)             Requested size: 180.67499pt x 45.43352pt.
 
 
@@ -287,20 +287,20 @@ unmatched_circuit-with-transmission-lines.PNG> <C:/Users/HP-Elitebook/repos/ece
 432/FSK_Report/amplifier_simulation_pics/MMIC_matched_circuit-with-transmission
 -lines.PNG>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 63.
+(Font)              <7> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 63.
+(Font)              <5> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 63.
+(Font)              <8> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 63.
+(Font)              <6> on input line 61.
 
 <wilkinson-pics/wilkinson-schematic.png, id=15, 582.67688pt x 505.89pt>
 File: wilkinson-pics/wilkinson-schematic.png Graphic file (type png)
 
 <use wilkinson-pics/wilkinson-schematic.png>
 Package pdftex.def Info: wilkinson-pics/wilkinson-schematic.png used on input l
-ine 68.
+ine 66.
 (pdftex.def)             Requested size: 180.67499pt x 156.86287pt.
 
 <wilkinson-pics/wilkinson-simulation.png, id=16, 604.50844pt x 482.55281pt>
@@ -308,7 +308,7 @@ File: wilkinson-pics/wilkinson-simulation.png Graphic file (type png)
 
 <use wilkinson-pics/wilkinson-simulation.png>
 Package pdftex.def Info: wilkinson-pics/wilkinson-simulation.png used on input 
-line 76.
+line 74.
 (pdftex.def)             Requested size: 180.67499pt x 144.22208pt.
 
 <wilkinson-pics/wilkinson-layout.png, id=17, 671.50874pt x 450.9347pt>
@@ -316,21 +316,21 @@ File: wilkinson-pics/wilkinson-layout.png Graphic file (type png)
 
 <use wilkinson-pics/wilkinson-layout.png>
 Package pdftex.def Info: wilkinson-pics/wilkinson-layout.png used on input line
- 84.
+ 82.
 (pdftex.def)             Requested size: 180.67499pt x 121.3274pt.
 
 <bandpass-pics/bpf24.png, id=18, 529.98pt x 465.99094pt>
 File: bandpass-pics/bpf24.png Graphic file (type png)
 
 <use bandpass-pics/bpf24.png>
-Package pdftex.def Info: bandpass-pics/bpf24.png used on input line 95.
+Package pdftex.def Info: bandpass-pics/bpf24.png used on input line 93.
 (pdftex.def)             Requested size: 180.67499pt x 158.86143pt.
 
 <bandpass-pics/bpf26.png, id=19, 526.21594pt x 465.99094pt>
 File: bandpass-pics/bpf26.png Graphic file (type png)
 
 <use bandpass-pics/bpf26.png>
-Package pdftex.def Info: bandpass-pics/bpf26.png used on input line 103.
+Package pdftex.def Info: bandpass-pics/bpf26.png used on input line 101.
 (pdftex.def)             Requested size: 180.67499pt x 159.99911pt.
  [2 <C:/Users/HP-Elitebook/repos/ece432/FSK_Report/amplifier_simulation_pics/ln
 aS21.PNG> <C:/Users/HP-Elitebook/repos/ece432/FSK_Report/amplifier_simulation_p
@@ -344,7 +344,7 @@ Report/wilkinson-pics/wilkinson-layout.png> <C:/Users/HP-Elitebook/repos/ece432
 File: diode-pics/diodedetectorSimplifiedSchematic.png Graphic file (type png)
  <use diode-pics/diodedetectorSimplifiedSchematic.png>
 Package pdftex.def Info: diode-pics/diodedetectorSimplifiedSchematic.png used o
-n input line 117.
+n input line 115.
 (pdftex.def)             Requested size: 180.67499pt x 82.39195pt.
 
 <diode-pics/diodedetectormodel.png, id=31, 1011.78pt x 432.86719pt>
@@ -352,7 +352,7 @@ File: diode-pics/diodedetectormodel.png Graphic file (type png)
 
 <use diode-pics/diodedetectormodel.png>
 Package pdftex.def Info: diode-pics/diodedetectormodel.png used on input line 1
-25.
+23.
 (pdftex.def)             Requested size: 180.67499pt x 77.29846pt.
 
 <diode-pics/diodedetectorSimplifiedSmithChart.png, id=32, 512.66531pt x 486.316
@@ -360,14 +360,14 @@ Package pdftex.def Info: diode-pics/diodedetectormodel.png used on input line 1
 File: diode-pics/diodedetectorSimplifiedSmithChart.png Graphic file (type png)
  <use diode-pics/diodedetectorSimplifiedSmithChart.png>
 Package pdftex.def Info: diode-pics/diodedetectorSimplifiedSmithChart.png used 
-on input line 133.
+on input line 131.
 (pdftex.def)             Requested size: 180.67499pt x 171.38591pt.
 
 <diode-pics/smithcharttool.png, id=33, 1201.48875pt x 653.44125pt>
 File: diode-pics/smithcharttool.png Graphic file (type png)
 
 <use diode-pics/smithcharttool.png>
-Package pdftex.def Info: diode-pics/smithcharttool.png used on input line 141.
+Package pdftex.def Info: diode-pics/smithcharttool.png used on input line 139.
 (pdftex.def)             Requested size: 180.67499pt x 98.26122pt.
 
 <diode-pics/diodedetectorsfinalchematic.png, id=34, 619.56468pt x 496.85625pt>
@@ -375,7 +375,7 @@ File: diode-pics/diodedetectorsfinalchematic.png Graphic file (type png)
 
 <use diode-pics/diodedetectorsfinalchematic.png>
 Package pdftex.def Info: diode-pics/diodedetectorsfinalchematic.png used on inp
-ut line 161.
+ut line 159.
 (pdftex.def)             Requested size: 180.67499pt x 144.88824pt.
 
 Underfull \vbox (badness 5771) has occurred while \output is active []
@@ -392,7 +392,7 @@ pt>
 File: diode-pics/diodedetectorSmithmatched-final.png Graphic file (type png)
  <use diode-pics/diodedetectorSmithmatched-final.png>
 Package pdftex.def Info: diode-pics/diodedetectorSmithmatched-final.png used on
- input line 172.
+ input line 170.
 (pdftex.def)             Requested size: 180.67499pt x 165.68646pt.
 
 <diode-pics/diodedetectorS11matched-final.png, id=45, 571.38469pt x 478.03593pt
@@ -400,7 +400,7 @@ Package pdftex.def Info: diode-pics/diodedetectorSmithmatched-final.png used on
 File: diode-pics/diodedetectorS11matched-final.png Graphic file (type png)
  <use diode-pics/diodedetectorS11matched-final.png>
 Package pdftex.def Info: diode-pics/diodedetectorS11matched-final.png used on i
-nput line 180.
+nput line 178.
 (pdftex.def)             Requested size: 180.67499pt x 151.15836pt.
 
 <diode-pics/diodedetectorlayout.png, id=46, 484.81125pt x 473.51906pt>
@@ -408,7 +408,7 @@ File: diode-pics/diodedetectorlayout.png Graphic file (type png)
 
 <use diode-pics/diodedetectorlayout.png>
 Package pdftex.def Info: diode-pics/diodedetectorlayout.png used on input line 
-188.
+186.
 (pdftex.def)             Requested size: 180.67499pt x 176.47095pt.
 
 Underfull \vbox (badness 1796) has occurred while \output is active []
@@ -419,7 +419,7 @@ File: diode-pics/diodedetectorLab24Smith.png Graphic file (type png)
 
 <use diode-pics/diodedetectorLab24Smith.png>
 Package pdftex.def Info: diode-pics/diodedetectorLab24Smith.png used on input l
-ine 203.
+ine 201.
 (pdftex.def)             Requested size: 180.67499pt x 134.63718pt.
 
 <diode-pics/diodedetectorLab24S11.png, id=48, 633.86812pt x 459.21562pt>
@@ -427,7 +427,7 @@ File: diode-pics/diodedetectorLab24S11.png Graphic file (type png)
 
 <use diode-pics/diodedetectorLab24S11.png>
 Package pdftex.def Info: diode-pics/diodedetectorLab24S11.png used on input lin
-e 211.
+e 209.
 (pdftex.def)             Requested size: 180.67499pt x 130.89182pt.
 
 <diode-pics/diodedetectorLab26Smith.png, id=49, 654.19406pt x 469.755pt>
@@ -435,7 +435,7 @@ File: diode-pics/diodedetectorLab26Smith.png Graphic file (type png)
 
 <use diode-pics/diodedetectorLab26Smith.png>
 Package pdftex.def Info: diode-pics/diodedetectorLab26Smith.png used on input l
-ine 219.
+ine 217.
 (pdftex.def)             Requested size: 180.67499pt x 129.73137pt.
 
 <diode-pics/diodedetectorLab26S11.png, id=50, 655.69969pt x 462.22687pt>
@@ -443,20 +443,20 @@ File: diode-pics/diodedetectorLab26S11.png Graphic file (type png)
 
 <use diode-pics/diodedetectorLab26S11.png>
 Package pdftex.def Info: diode-pics/diodedetectorLab26S11.png used on input lin
-e 227.
+e 225.
 (pdftex.def)             Requested size: 180.67499pt x 127.36316pt.
 
 <fsk.jpg, id=51, 2538.48375pt x 868.24374pt>
 File: fsk.jpg Graphic file (type jpg)
  <use fsk.jpg>
-Package pdftex.def Info: fsk.jpg used on input line 238.
+Package pdftex.def Info: fsk.jpg used on input line 236.
 (pdftex.def)             Requested size: 180.67499pt x 61.79013pt.
 
 <diode-pics/output_chart.PNG, id=52, 358.33875pt x 213.04594pt>
 File: diode-pics/output_chart.PNG Graphic file (type png)
 
 <use diode-pics/output_chart.PNG>
-Package pdftex.def Info: diode-pics/output_chart.PNG used on input line 245.
+Package pdftex.def Info: diode-pics/output_chart.PNG used on input line 243.
 (pdftex.def)             Requested size: 180.67499pt x 107.41992pt.
  [4 <C:/Users/HP-Elitebook/repos/ece432/FSK_Report/diode-pics/diodedetectorSmit
 hmatched-final.png> <C:/Users/HP-Elitebook/repos/ece432/FSK_Report/diode-pics/d
@@ -496,7 +496,7 @@ fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
 /urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times
 /utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pf
 b>
-Output written on bare_conf.pdf (5 pages, 1378974 bytes).
+Output written on bare_conf.pdf (5 pages, 1378953 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
