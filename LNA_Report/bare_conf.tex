@@ -117,6 +117,8 @@ Figure~\ref{fig:lnaLayout} shows the layout which will be used to manufacture th
 
 \section{Conclusison}
 In summary, an LNA designed to the specifications given in Table \ref{tab:specs} was designed, simulated, and built. The design and simulation of the LNA were consitent with expectations. The assembled LNA was inconsistent with both the simulaitons and the designer's expectations. The root cause of this inconsistancy was not issolated despite attempts to do so. The authors' working assumption is that the substrate used had a significant variation from typical FR4 in terms of $\Epsilon_r& and that it was this variation that caused the instability. Other possibilties include mismarked components or damaged components. 
+
+Leasons learned durring this project included the importance of properly selecting and varifying all circuit elements used at microwave frequencies and the importlance of physical testing as a means to augment computational modeling. While the authors' currently theorize that the oscillations were caused by variations in thec ircuit elements used in assembly, it is also possible that the issue was due to ADS's simulation providing erronious results. Thus by testing a physical prototype, the designer can be assured that the models used accurately predict the behavior of the circuit designed.
 \begin{thebibliography}{1}
 \bibitem{payne}
 K. Payne, "Practical RF Amplifier Design Using the Available Gain Procedure and the Advanced Design System EM/Circuit Co-Simulation Capability," Agilent Technologies (5990-3356EN), 2008.

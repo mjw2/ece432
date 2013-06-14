@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.20)  13 JUN 2013 21:55
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.20)  13 JUN 2013 22:17
 entering extended mode
 **C:/Users/mwoodruf/repo/ece432/LNA_Report/bare_conf.tex
 (C:/Users/mwoodruf/repo/ece432/LNA_Report/bare_conf.tex
@@ -275,90 +275,4 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: pics/DesignGuideStablizedCircuit.png Graphic file (type png)
 
 <use pics/DesignGuideStablizedCircuit.png>
-Package pdftex.def Info: pics/DesignGuideStablizedCircuit.png used on input lin
-e 78.
-(pdftex.def)             Requested size: 180.67499pt x 93.01633pt.
- [1{C:/Users/mwoodruf/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
- <C:/Users/mwoodruf/repo/ece432/LNA_Report/pics/DCBiasNetwork.png> <C:/Users/mw
-oodruf/repo/ece432/LNA_Report/pics/DCBiasResults.png> <C:/Users/mwoodruf/repo/e
-ce432/LNA_Report/pics/SParameterComparison.png>] <pics/DesignGuideStablizedSimu
-lation.png, id=19, 705.38531pt x 505.89pt>
-File: pics/DesignGuideStablizedSimulation.png Graphic file (type png)
-
-<use pics/DesignGuideStablizedSimulation.png>
-Package pdftex.def Info: pics/DesignGuideStablizedSimulation.png used on input 
-line 85.
-(pdftex.def)             Requested size: 180.67499pt x 129.57532pt.
-
-<pics/FinalStabilizingCircuit.png, id=20, 693.34032pt x 479.54156pt>
-File: pics/FinalStabilizingCircuit.png Graphic file (type png)
-
-<use pics/FinalStabilizingCircuit.png>
-Package pdftex.def Info: pics/FinalStabilizingCircuit.png used on input line 94
-.
-(pdftex.def)             Requested size: 180.67499pt x 124.96323pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<pics/FinalStabilizingSimulation.png, id=21, 685.05937pt x 493.845pt>
-File: pics/FinalStabilizingSimulation.png Graphic file (type png)
-
-<use pics/FinalStabilizingSimulation.png>
-Package pdftex.def Info: pics/FinalStabilizingSimulation.png used on input line
- 101.
-(pdftex.def)             Requested size: 180.67499pt x 130.24284pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<LNApics/LNAlayout.png, id=22, 475.02469pt x 485.56406pt>
-File: LNApics/LNAlayout.png Graphic file (type png)
-
-<use LNApics/LNAlayout.png>
-Package pdftex.def Info: LNApics/LNAlayout.png used on input line 109.
-(pdftex.def)             Requested size: 180.67499pt x 184.68666pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-** Conference Paper **
-Before submitting the final camera ready copy, remember to:
-
- 1. Manually equalize the lengths of two columns on the last page
- of your paper;
-
- 2. Ensure that any PostScript and/or PDF output post-processing
- uses only Type 1 fonts and that every step in the generation
- process uses the appropriate paper size.
-
-[2 <C:/Users/mwoodruf/repo/ece432/LNA_Report/pics/DesignGuideUnoptimized.png> <
-C:/Users/mwoodruf/repo/ece432/LNA_Report/pics/DesignGuideStablizedCircuit.png> 
-<C:/Users/mwoodruf/repo/ece432/LNA_Report/pics/DesignGuideStablizedSimulation.p
-ng> <C:/Users/mwoodruf/repo/ece432/LNA_Report/pics/FinalStabilizingCircuit.png>
- <C:/Users/mwoodruf/repo/ece432/LNA_Report/pics/FinalStabilizingSimulation.png>
- <C:/Users/mwoodruf/repo/ece432/LNA_Report/LNApics/LNAlayout.png>]
-(C:\Users\mwoodruf\repo\ece432\LNA_Report\bare_conf.aux) ) 
-Here is how much of TeX's memory you used:
- 2927 strings out of 493921
- 41893 string characters out of 3146471
- 107381 words of memory out of 3000000
- 6223 multiletter control sequences out of 15000+200000
- 34673 words of font info for 64 fonts, out of 3000000 for 9000
- 844 hyphenation exceptions out of 8191
- 27i,8n,35p,983b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x8
-6)/miktex/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/miktex/fonts/
-type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/miktex/fonts/type1/
-public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/miktex/fonts/type1/urw/tim
-es/utmb8a.pfb><C:/Program Files (x86)/miktex/fonts/type1/urw/times/utmbi8a.pfb>
-<C:/Program Files (x86)/miktex/fonts/type1/urw/times/utmr8a.pfb>
-Output written on bare_conf.pdf (2 pages, 376284 bytes).
-PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+Package pdftex.def Info: pics/DesignGuideStabl
