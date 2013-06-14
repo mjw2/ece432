@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.6)  13 JUN 2013 19:28
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.6)  13 JUN 2013 23:22
 entering extended mode
 **C:/Users/HP-Elitebook/repos/ece432/FSK_Report/bare_conf.tex
 (C:/Users/HP-Elitebook/repos/ece432/FSK_Report/bare_conf.tex
@@ -487,7 +487,7 @@ Here is how much of TeX's memory you used:
  6307 multiletter control sequences out of 15000+200000
  39217 words of font info for 73 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 27i,9n,35p,1448b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,9n,35p,1427b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program File
 s (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 
@@ -496,7 +496,7 @@ fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
 /urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times
 /utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pf
 b>
-Output written on bare_conf.pdf (5 pages, 1378953 bytes).
+Output written on bare_conf.pdf (5 pages, 1379242 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
