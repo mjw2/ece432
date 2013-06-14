@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.6)  13 JUN 2013 19:15
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.6)  13 JUN 2013 19:21
 entering extended mode
 **C:/Users/HP-Elitebook/repos/ece432/FSK_Report/bare_conf.tex
 (C:/Users/HP-Elitebook/repos/ece432/FSK_Report/bare_conf.tex
@@ -236,11 +236,6 @@ i
 \makeMPintoPDFobject=\count109
 \everyMPtoPDFconversion=\toks22
 )
-
-LaTeX Warning: Reference `fig:lna_schematic' on page 1 undefined on input line 
-28.
-
-
 <amplifier_simulation_pics/MMIC_unmatched_circuit-with-transmission-lines.PNG, 
 id=1, 541.27219pt x 487.06969pt>
 File: amplifier_simulation_pics/MMIC_unmatched_circuit-with-transmission-lines.
@@ -463,16 +458,12 @@ File: diode-pics/output_chart.PNG Graphic file (type png)
 <use diode-pics/output_chart.PNG>
 Package pdftex.def Info: diode-pics/output_chart.PNG used on input line 245.
 (pdftex.def)             Requested size: 180.67499pt x 107.41992pt.
-
-
-LaTeX Warning: Reference `fsk_chart' on page 4 undefined on input line 251.
-
-[4 <C:/Users/HP-Elitebook/repos/ece432/FSK_Report/diode-pics/diodedetectorSmith
-matched-final.png> <C:/Users/HP-Elitebook/repos/ece432/FSK_Report/diode-pics/di
-odedetectorS11matched-final.png> <C:/Users/HP-Elitebook/repos/ece432/FSK_Report
-/diode-pics/diodedetectorlayout.png> <C:/Users/HP-Elitebook/repos/ece432/FSK_Re
-port/diode-pics/diodedetectorLab24Smith.png> <C:/Users/HP-Elitebook/repos/ece43
-2/FSK_Report/diode-pics/diodedetectorLab24S11.png>]
+ [4 <C:/Users/HP-Elitebook/repos/ece432/FSK_Report/diode-pics/diodedetectorSmit
+hmatched-final.png> <C:/Users/HP-Elitebook/repos/ece432/FSK_Report/diode-pics/d
+iodedetectorS11matched-final.png> <C:/Users/HP-Elitebook/repos/ece432/FSK_Repor
+t/diode-pics/diodedetectorlayout.png> <C:/Users/HP-Elitebook/repos/ece432/FSK_R
+eport/diode-pics/diodedetectorLab24Smith.png> <C:/Users/HP-Elitebook/repos/ece4
+32/FSK_Report/diode-pics/diodedetectorLab24S11.png>]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -488,27 +479,24 @@ Before submitting the final camera ready copy, remember to:
 Smith.png> <C:/Users/HP-Elitebook/repos/ece432/FSK_Report/diode-pics/diodedetec
 torLab26S11.png> <C:/Users/HP-Elitebook/repos/ece432/FSK_Report/fsk.jpg> <C:/Us
 ers/HP-Elitebook/repos/ece432/FSK_Report/diode-pics/output_chart.PNG>]
-(C:\Users\HP-Elitebook\repos\ece432\FSK_Report\bare_conf.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+(C:\Users\HP-Elitebook\repos\ece432\FSK_Report\bare_conf.aux) ) 
 Here is how much of TeX's memory you used:
- 3038 strings out of 493921
- 45784 string characters out of 3144856
- 108529 words of memory out of 3000000
+ 3037 strings out of 493921
+ 45768 string characters out of 3144856
+ 108532 words of memory out of 3000000
  6307 multiletter control sequences out of 15000+200000
- 40324 words of font info for 74 fonts, out of 3000000 for 9000
+ 39217 words of font info for 73 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 27i,9n,35p,1444b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ur
-w/times/utmri8a.pfb>
-Output written on bare_conf.pdf (5 pages, 1378925 bytes).
+ 27i,9n,35p,1448b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program File
+s (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times
+/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pf
+b>
+Output written on bare_conf.pdf (5 pages, 1378974 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
