@@ -25,11 +25,12 @@ The LNA varies from the other type of amplifer covered in ECE432, the Power Ampl
 \section{LNA Design}
 The LNA design is comprised of Minicircuit's low noise SAV-541+ transistor.  Consideration of a suitable bias network is required for gain and stability.  Looking at the SAV-541+ datasheet\cite{sav541datasheet}, a good place to bias the transistor is $I_{DS}$ = 60 mA at $V_{DS}$ = 3 V.  The recommended application circuit provided in the datasheet is used in the design.   The BJT current mirror helps draw $I_{DS}$ to 60 mA.  The supply power was chosen to be 3.7 V (instead of 3.3 V) due to the 0.7 V drop from the BJT current mirror.
 
+Table \ref{tab:specs} lists the design constraints for the LNA discussed in this report. These were designed for with the sole exception of the supply current. This was increased as noted above to acount for the voltage drop due to the active biasing network used. 
+
 \begin{table}[!b]
 \caption{LNA Design Constraints}
 \centering
     \begin{tabular}{c c c}
-    
   	Frequency & 2.4 to 2.6 & (GHz)\\
 	Gain (min) & 10 & (dB)\\
 	Noise Figure (max) & 2.5 & (dB)\\
@@ -41,7 +42,7 @@ The LNA design is comprised of Minicircuit's low noise SAV-541+ transistor.  Con
 \label{tab:specs}
 \end{table}
 
-Figure~\ref{fig:dccircuit} shows the bias network for the transistor circuit.  Figure~\ref{fig:dcvalues} shows the DC measurements of the parameters of interest.  Figure~\ref{fig:sparamresult} shows the S-Parameter comparison between the bias network circuit and the manufacturer S2P data.  The bias network shows little discrepency but works as expected.
+Figure~\ref{fig:dccircuit} shows the bias network for the transistor circuit.  Figure~\ref{fig:dcvalues} shows the DC measurements of the parameters of interest.  Figure~\ref{fig:sparamresult} shows the S-Parameter comparison between the bias network circuit and the manufacturer S2P data.  The bias network shows little discrepency in simulation from the datasheet's assertion of $60mA$ at $3V_{DS}$. 2N3906 PMOS trasistors were used for the model and the actual biasing circuit. These are common PMOS transistors that are cheap and readily available. Their frequency characteristics are not great but the DC biasing inductors should attenuate the high frequency signals on the gate and drain enough to allow for proper operation. The authors' only concern is that the values used in simulations were 100nH while the largest ones available when assembling the circuit were 22nH. 
 
 \begin{figure}[!h]
 \centering
