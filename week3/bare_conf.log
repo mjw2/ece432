@@ -1,10 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.6)  22 APR 2013 15:16
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.20)  13 JUN 2013 23:07
 entering extended mode
-**C:/Users/HP-Elitebook/Desktop/ece432/week3/windows_latex_template/IEEEtran5/b
-are_conf.tex
-
-(C:/Users/HP-Elitebook/Desktop/ece432/week3/windows_latex_template/IEEEtran5/ba
-re_conf.tex
+**C:/Users/mwoodruf/repo/ece432/week3/bare_conf.tex
+(C:/Users/mwoodruf/repo/ece432/week3/bare_conf.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -16,9 +13,7 @@ german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-
-(C:\Users\HP-Elitebook\Desktop\ece432\week3\windows_latex_template\IEEEtran5\IE
-EEtran.cls
+(C:\Users\mwoodruf\repo\ece432\week3\IEEEtran.cls
 Document Class: IEEEtran 2012/11/21 V1.8c by Harald Hanche-Olsen and Anders Chr
 istensen
 -- Based on V1.7a by Michael Shell
@@ -31,7 +26,7 @@ istensen
 \@IEEEtrantmptoksA=\toks14
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 373.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+("C:\Program Files (x86)\miktex\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
@@ -104,24 +99,24 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtmpitemindent=\dimen116
 \c@IEEEbiography=\count90
 \@IEEEtranrubishbin=\box26
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+) ("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks15
 \ex@=\dimen117
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen118
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count91
@@ -162,21 +157,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(C:\Users\HP-Elitebook\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+("C:\Program Files (x86)\miktex\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("C:\Program Files (x86)\miktex\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files (x86)\miktex\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Program Files (x86)\miktex\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Program Files (x86)\miktex\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count103
@@ -191,20 +186,20 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks20
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files (x86)\miktex\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
@@ -212,8 +207,7 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
 )
-(C:\Users\HP-Elitebook\Desktop\ece432\week3\windows_latex_template\IEEEtran5\ba
-re_conf.aux)
+(C:\Users\mwoodruf\repo\ece432\week3\bare_conf.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -227,8 +221,7 @@ LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 
-(C:\Users\HP-Elitebook\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mki
-i
+("C:\Program Files (x86)\miktex\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count104
 \scratchdimen=\dimen128
@@ -243,62 +236,53 @@ i
 \everyMPtoPDFconversion=\toks22
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 17.
+(Font)              <7> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 17.
+(Font)              <5> on input line 23.
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--19
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
  []
 
 <pic/1stable.png, id=1, 648.92438pt x 508.14844pt>
 File: pic/1stable.png Graphic file (type png)
  <use pic/1stable.png>
-Package pdftex.def Info: pic/1stable.png used on input line 22.
+Package pdftex.def Info: pic/1stable.png used on input line 28.
 (pdftex.def)             Requested size: 227.12692pt x 177.85461pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 23.
+(Font)              <8> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 23.
+(Font)              <6> on input line 29.
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--30
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
 []\OT1/ptm/m/n/10 2. Pick one fre-quency at which SAV-451+[] is
  []
 
 
-Underfull \hbox (badness 6125) in paragraph at lines 27--30
+Underfull \hbox (badness 6125) in paragraph at lines 33--36
 \OT1/ptm/m/n/10 for max-i-mum trans-ducer gain (si-mul-ta-ne-ous con-ju-gate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--30
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--30
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
 
  []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <pic/smith1.png, id=3, 371.13657pt x 412.54124pt>
 File: pic/smith1.png Graphic file (type png)
  <use pic/smith1.png>
-Package pdftex.def Info: pic/smith1.png used on input line 56.
+Package pdftex.def Info: pic/smith1.png used on input line 62.
 (pdftex.def)             Requested size: 185.56783pt x 206.27011pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <pic/smith2.png, id=4, 377.91188pt x 472.01344pt>
 File: pic/smith2.png Graphic file (type png)
  <use pic/smith2.png>
-Package pdftex.def Info: pic/smith2.png used on input line 63.
+Package pdftex.def Info: pic/smith2.png used on input line 69.
 (pdftex.def)             Requested size: 188.95547pt x 236.00613pt.
 
 
@@ -307,43 +291,42 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <pic/2.png, id=5, 993.7125pt x 611.28375pt>
 File: pic/2.png Graphic file (type png)
  <use pic/2.png>
-Package pdftex.def Info: pic/2.png used on input line 70.
+Package pdftex.def Info: pic/2.png used on input line 76.
 (pdftex.def)             Requested size: 248.4275pt x 152.82056pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--79
+Underfull \hbox (badness 10000) in paragraph at lines 81--85
 
  []
 
 <pic/stabcircle.png, id=6, 593.21625pt x 644.4075pt>
 File: pic/stabcircle.png Graphic file (type png)
  <use pic/stabcircle.png>
-Package pdftex.def Info: pic/stabcircle.png used on input line 84.
+Package pdftex.def Info: pic/stabcircle.png used on input line 90.
 (pdftex.def)             Requested size: 266.94484pt x 289.9807pt.
 
-Overfull \hbox (13.89497pt too wide) in paragraph at lines 84--85
+Overfull \hbox (13.89497pt too wide) in paragraph at lines 90--91
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--88
+Underfull \hbox (badness 10000) in paragraph at lines 86--94
 
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 80--88
+Underfull \hbox (badness 1448) in paragraph at lines 86--94
 \OT1/ptm/m/n/10 2.4 GHz. A rough re-sis-tor shunt re-sis-tor value on the
  []
 
-[1{C:/Users/HP-Elitebook/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+[1{C:/Users/mwoodruf/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
- <C:/Users/HP-Elitebook/Desktop/ece432/week3/windows_latex_template/IEEEtran5/p
-ic/1stable.png> <C:/Users/HP-Elitebook/Desktop/ece432/week3/windows_latex_templ
-ate/IEEEtran5/pic/smith1.png>]
+ <C:/Users/mwoodruf/repo/ece432/week3/pic/1stable.png> <C:/Users/mwoodruf/repo/
+ece432/week3/pic/smith1.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -351,15 +334,15 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: pic/stabcircle-optimized.png Graphic file (type png)
 
 <use pic/stabcircle-optimized.png>
-Package pdftex.def Info: pic/stabcircle-optimized.png used on input line 93.
+Package pdftex.def Info: pic/stabcircle-optimized.png used on input line 99.
 (pdftex.def)             Requested size: 261.26437pt x 284.03703pt.
 
-Overfull \hbox (8.21451pt too wide) in paragraph at lines 93--94
+Overfull \hbox (8.21451pt too wide) in paragraph at lines 99--100
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--97
+Underfull \hbox (badness 10000) in paragraph at lines 95--103
 
  []
 
@@ -370,30 +353,21 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: pic/lastproblem.png Graphic file (type png)
 
 <use pic/lastproblem.png>
-Package pdftex.def Info: pic/lastproblem.png used on input line 102.
+Package pdftex.def Info: pic/lastproblem.png used on input line 108.
 (pdftex.def)             Requested size: 255.95172pt x 116.53331pt.
 
-Overfull \hbox (2.90186pt too wide) in paragraph at lines 102--103
+Overfull \hbox (2.90186pt too wide) in paragraph at lines 108--109
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--106
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Overfull \vbox (23.60156pt too high) has occurred while \output is active []
-
-
-[2 <C:/Users/HP-Elitebook/Desktop/ece432/week3/windows_latex_template/IEEEtran5
-/pic/smith2.png> <C:/Users/HP-Elitebook/Desktop/ece432/week3/windows_latex_temp
-late/IEEEtran5/pic/2.png> <C:/Users/HP-Elitebook/Desktop/ece432/week3/windows_l
-atex_template/IEEEtran5/pic/stabcircle.png> <C:/Users/HP-Elitebook/Desktop/ece4
-32/week3/windows_latex_template/IEEEtran5/pic/stabcircle-optimized.png>]
+[2 <C:/Users/mwoodruf/repo/ece432/week3/pic/smith2.png> <C:/Users/mwoodruf/repo
+/ece432/week3/pic/2.png> <C:/Users/mwoodruf/repo/ece432/week3/pic/stabcircle.pn
+g> <C:/Users/mwoodruf/repo/ece432/week3/pic/stabcircle-optimized.png>]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -405,33 +379,29 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3
-
- <C:/Users/HP-Elitebook/Desktop/ece432/week3/windows_latex_template/IEEEtran5/p
-ic/lastproblem.png>]
-(C:\Users\HP-Elitebook\Desktop\ece432\week3\windows_latex_template\IEEEtran5\ba
-re_conf.aux) ) 
+[3 <C:/Users/mwoodruf/repo/ece432/week3/pic/lastproblem.png>]
+(C:\Users\mwoodruf\repo\ece432\week3\bare_conf.aux) ) 
 Here is how much of TeX's memory you used:
  2929 strings out of 493921
- 41730 string characters out of 3144856
+ 41116 string characters out of 3146471
  108371 words of memory out of 3000000
  6222 multiletter control sequences out of 15000+200000
  37014 words of font info for 71 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 27i,10n,35p,1281b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.en
-c}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/urw/times/utmri8a.pfb>
-Output written on bare_conf.pdf (3 pages, 755730 bytes).
+ 27i,10n,35p,1241b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/mi
+ktex/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/miktex/fonts/type1
+/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/miktex/fonts/type1/publi
+c/amsfonts/cm/cmmi5.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfo
+nts/cm/cmmi7.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/
+cmmi8.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/P
+rogram Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program F
+iles (x86)/miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (
+x86)/miktex/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files (x86)/mi
+ktex/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/miktex/fonts/type
+1/urw/times/utmri8a.pfb>
+Output written on bare_conf.pdf (3 pages, 756223 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
