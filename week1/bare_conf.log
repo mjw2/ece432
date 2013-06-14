@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.6)  7 APR 2013 12:27
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.20)  13 JUN 2013 23:04
 entering extended mode
-**C:/Users/HP-Elitebook/Desktop/windows_latex_template/IEEEtran5/bare_conf.tex
-(C:/Users/HP-Elitebook/Desktop/windows_latex_template/IEEEtran5/bare_conf.tex
+**C:/Users/mwoodruf/repo/ece432/week1/bare_conf.tex
+(C:/Users/mwoodruf/repo/ece432/week1/bare_conf.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\HP-Elitebook\Desktop\windows_latex_template\IEEEtran5\IEEEtran.cls
+(C:\Users\mwoodruf\repo\ece432\week1\IEEEtran.cls
 Document Class: IEEEtran 2012/11/21 V1.8c by Harald Hanche-Olsen and Anders Chr
 istensen
 -- Based on V1.7a by Michael Shell
@@ -26,7 +26,7 @@ istensen
 \@IEEEtrantmptoksA=\toks14
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 373.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+("C:\Program Files (x86)\miktex\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
@@ -99,24 +99,24 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtmpitemindent=\dimen116
 \c@IEEEbiography=\count90
 \@IEEEtranrubishbin=\box26
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+) ("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks15
 \ex@=\dimen117
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen118
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count91
@@ -157,21 +157,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(C:\Users\HP-Elitebook\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+("C:\Program Files (x86)\miktex\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("C:\Program Files (x86)\miktex\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files (x86)\miktex\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Program Files (x86)\miktex\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Program Files (x86)\miktex\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count103
@@ -186,20 +186,20 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks20
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files (x86)\miktex\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
@@ -207,7 +207,7 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
 )
-(C:\Users\HP-Elitebook\Desktop\windows_latex_template\IEEEtran5\bare_conf.aux)
+(C:\Users\mwoodruf\repo\ece432\week1\bare_conf.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
@@ -221,8 +221,7 @@ LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 
-(C:\Users\HP-Elitebook\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mki
-i
+("C:\Program Files (x86)\miktex\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count104
 \scratchdimen=\dimen128
@@ -237,129 +236,129 @@ i
 \everyMPtoPDFconversion=\toks22
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 28.
+(Font)              <7> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 28.
+(Font)              <5> on input line 33.
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--32
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
 
  []
 
 
-Underfull \hbox (badness 1629) in paragraph at lines 30--32
+Underfull \hbox (badness 1629) in paragraph at lines 35--37
 \OT1/ptm/m/n/10 After an-a-lyz-ing the sim-u-la-tion re-sults for both cir-cuit
 s,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--49
+Underfull \hbox (badness 10000) in paragraph at lines 38--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--49
+Underfull \hbox (badness 10000) in paragraph at lines 38--54
 
  []
 
 
-Underfull \hbox (badness 2707) in paragraph at lines 33--49
+Underfull \hbox (badness 2707) in paragraph at lines 38--54
 []\OT1/ptm/m/n/10 For the quadra-ture cir-cuit, only the width and length
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--49
+Underfull \hbox (badness 10000) in paragraph at lines 38--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--49
+Underfull \hbox (badness 10000) in paragraph at lines 38--54
 
  []
 
 <pozar-hybrid.png, id=1, 938.75719pt x 386.94562pt>
 File: pozar-hybrid.png Graphic file (type png)
  <use pozar-hybrid.png>
-Package pdftex.def Info: pozar-hybrid.png used on input line 52.
+Package pdftex.def Info: pozar-hybrid.png used on input line 57.
 (pdftex.def)             Requested size: 234.68872pt x 96.73616pt.
 
 <ads-layout.png, id=3, 774.64406pt x 484.05844pt>
 File: ads-layout.png Graphic file (type png)
  <use ads-layout.png>
-Package pdftex.def Info: ads-layout.png used on input line 59.
+Package pdftex.def Info: ads-layout.png used on input line 64.
 (pdftex.def)             Requested size: 193.66054pt x 121.01431pt.
 
 <quadrature-ideal-circuit.png, id=4, 923.70094pt x 516.42938pt>
 File: quadrature-ideal-circuit.png Graphic file (type png)
 
 <use quadrature-ideal-circuit.png>
-Package pdftex.def Info: quadrature-ideal-circuit.png used on input line 68.
+Package pdftex.def Info: quadrature-ideal-circuit.png used on input line 73.
 (pdftex.def)             Requested size: 230.92467pt x 129.10703pt.
 
 <quadrature-nonideal-circuit.png, id=5, 1148.03906pt x 471.26062pt>
 File: quadrature-nonideal-circuit.png Graphic file (type png)
 
 <use quadrature-nonideal-circuit.png>
-Package pdftex.def Info: quadrature-nonideal-circuit.png used on input line 74.
+Package pdftex.def Info: quadrature-nonideal-circuit.png used on input line 79.
 
 (pdftex.def)             Requested size: 229.60374pt x 94.25044pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--78
+Underfull \hbox (badness 10000) in paragraph at lines 69--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--78
+Underfull \hbox (badness 10000) in paragraph at lines 69--83
 
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 64--78
+Underfull \hbox (badness 3407) in paragraph at lines 69--83
 []\OT1/ptm/m/n/10 Figure 3[] shows the ideal quadra-ture cir-cuit in ADS.
  []
 
+[1{C:/Users/mwoodruf/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <C:/Users/mwoodruf/repo/ece432/week1/pozar-hybrid.png> <C:/Users/mwoodruf/repo
+/ece432/week1/ads-layout.png>]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--83
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--83
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--83
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 80--83
+Underfull \hbox (badness 1448) in paragraph at lines 85--88
 \OT1/ptm/m/n/10 Note: The main dif-fer-ence be-tween the ideal and non-
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 80--83
+Underfull \hbox (badness 2744) in paragraph at lines 85--88
 \OT1/ptm/m/n/10 dB--this would in-di-cate max-i-mum power trans-fer). The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--83
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 
  []
 
-[1{C:/Users/HP-Elitebook/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
- <C:/Users/HP-Elitebook/Desktop/windows_latex_template/IEEEtran5/pozar-hybrid.p
-ng> <C:/Users/HP-Elitebook/Desktop/windows_latex_template/IEEEtran5/ads-layout.
-png>] <quadrature-ideal-plot.png, id=18, 626.34pt x 506.6428pt>
+<quadrature-ideal-plot.png, id=18, 626.34pt x 506.6428pt>
 File: quadrature-ideal-plot.png Graphic file (type png)
 
 <use quadrature-ideal-plot.png>
-Package pdftex.def Info: quadrature-ideal-plot.png used on input line 86.
+Package pdftex.def Info: quadrature-ideal-plot.png used on input line 91.
 (pdftex.def)             Requested size: 219.22227pt x 177.32764pt.
 
 
@@ -369,7 +368,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: quadrature-nonideal-plot.png Graphic file (type png)
 
 <use quadrature-nonideal-plot.png>
-Package pdftex.def Info: quadrature-nonideal-plot.png used on input line 93.
+Package pdftex.def Info: quadrature-nonideal-plot.png used on input line 98.
 (pdftex.def)             Requested size: 217.64134pt x 177.59113pt.
 
 
@@ -384,15 +383,15 @@ Missing character: There is no ¦ in font ptmr7t!
 <pozar_plot.png, id=20, 502.12593pt x 350.05782pt>
 File: pozar_plot.png Graphic file (type png)
  <use pozar_plot.png>
-Package pdftex.def Info: pozar_plot.png used on input line 103.
+Package pdftex.def Info: pozar_plot.png used on input line 108.
 (pdftex.def)             Requested size: 175.7467pt x 122.52206pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--107
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--107
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
 
  []
 
@@ -400,54 +399,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--107
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--114
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--114
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--114
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
 
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 109--114
+Underfull \hbox (badness 1708) in paragraph at lines 114--119
 \OT1/ptm/m/n/10 6. Build your cir-cuit; re-mem-ber that you can mea-sure
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--114
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--114
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--114
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
 
  []
 
-[2 <C:/Users/HP-Elitebook/Desktop/windows_latex_template/IEEEtran5/quadrature-i
-deal-circuit.png> <C:/Users/HP-Elitebook/Desktop/windows_latex_template/IEEEtra
-n5/quadrature-nonideal-circuit.png> <C:/Users/HP-Elitebook/Desktop/windows_late
-x_template/IEEEtran5/quadrature-ideal-plot.png> <C:/Users/HP-Elitebook/Desktop/
-windows_latex_template/IEEEtran5/quadrature-nonideal-plot.png> <C:/Users/HP-Eli
-tebook/Desktop/windows_latex_template/IEEEtran5/pozar_plot.png>]
-<quadrature-board.png, id=30, 1228.59pt x 921.4425pt>
+[2 <C:/Users/mwoodruf/repo/ece432/week1/quadrature-ideal-circuit.png> <C:/Users
+/mwoodruf/repo/ece432/week1/quadrature-nonideal-circuit.png> <C:/Users/mwoodruf
+/repo/ece432/week1/quadrature-ideal-plot.png> <C:/Users/mwoodruf/repo/ece432/we
+ek1/quadrature-nonideal-plot.png> <C:/Users/mwoodruf/repo/ece432/week1/pozar_pl
+ot.png>] <quadrature-board.png, id=30, 1228.59pt x 921.4425pt>
 File: quadrature-board.png Graphic file (type png)
 
 <use quadrature-board.png>
-Package pdftex.def Info: quadrature-board.png used on input line 119.
+Package pdftex.def Info: quadrature-board.png used on input line 124.
 (pdftex.def)             Requested size: 184.28055pt x 138.2104pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--123
+Underfull \hbox (badness 10000) in paragraph at lines 121--128
 
  []
 
@@ -455,51 +452,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--123
 File: quadrature-labdata-plot.png Graphic file (type png)
 
 <use quadrature-labdata-plot.png>
-Package pdftex.def Info: quadrature-labdata-plot.png used on input line 129.
+Package pdftex.def Info: quadrature-labdata-plot.png used on input line 134.
 (pdftex.def)             Requested size: 185.75926pt x 179.43553pt.
 
-Underfull \hbox (badness 5802) in paragraph at lines 125--133
+Underfull \hbox (badness 5802) in paragraph at lines 130--138
 []\OT1/ptm/m/n/10 8. Com-pare your mea-sured and sim-u-lated re-sults.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--133
+Underfull \hbox (badness 10000) in paragraph at lines 130--138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--133
+Underfull \hbox (badness 10000) in paragraph at lines 130--138
 
  []
 
 
-Underfull \hbox (badness 1701) in paragraph at lines 134--135
+Underfull \hbox (badness 1701) in paragraph at lines 139--140
 \OT1/ptm/m/n/10 (re-flec-tion co-ef-fi-cient) at-ten-u-a-tion, and un-even sym-
 me-try
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--139
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--139
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
 []\OT1/ptm/m/n/8 http://www.techonline.com/electrical-engineers/education-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
 \OT1/ptm/m/n/8 training/courses/4410927/Fundamentals-of-Choosing-LDO-and-
  []
 
@@ -514,29 +511,27 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3 <C:/Users/HP-Elitebook/Desktop/windows_latex_template/IEEEtran5/quadrature-b
-oard.png> <C:/Users/HP-Elitebook/Desktop/windows_latex_template/IEEEtran5/quadr
-ature-labdata-plot.png>]
-(C:\Users\HP-Elitebook\Desktop\windows_latex_template\IEEEtran5\bare_conf.aux) 
-) 
+[3 <C:/Users/mwoodruf/repo/ece432/week1/quadrature-board.png> <C:/Users/mwoodru
+f/repo/ece432/week1/quadrature-labdata-plot.png>]
+(C:\Users\mwoodruf\repo\ece432\week1\bare_conf.aux) ) 
 Here is how much of TeX's memory you used:
  2927 strings out of 493921
- 42030 string characters out of 3144856
- 108384 words of memory out of 3000000
+ 41533 string characters out of 3146471
+ 107384 words of memory out of 3000000
  6224 multiletter control sequences out of 15000+200000
  35809 words of font info for 65 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 27i,10n,35p,1107b,230s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
-e1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/time
-s/utmri8a.pfb>
-Output written on bare_conf.pdf (3 pages, 4468139 bytes).
+ 27i,10n,35p,1080b,230s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/mi
+ktex/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/miktex/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/miktex/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfon
+ts/cm/cmr7.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb><C:/Program Files (x86)/miktex/fonts/type1/urw/times/utmb8a.pfb><C:/Pr
+ogram Files (x86)/miktex/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files (x
+86)/miktex/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/miktex/font
+s/type1/urw/times/utmri8a.pfb>
+Output written on bare_conf.pdf (3 pages, 4468236 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

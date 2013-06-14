@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.6)  13 JUN 2013 20:18
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.20)  13 JUN 2013 23:07
 entering extended mode
-**C:/Users/HP-Elitebook/repos/ece432/week5/bare_conf.tex
-(C:/Users/HP-Elitebook/repos/ece432/week5/bare_conf.tex
+**C:/Users/mwoodruf/repo/ece432/week5/bare_conf.tex
+(C:/Users/mwoodruf/repo/ece432/week5/bare_conf.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\HP-Elitebook\repos\ece432\week5\IEEEtran.cls
+(C:\Users\mwoodruf\repo\ece432\week5\IEEEtran.cls
 Document Class: IEEEtran 2012/11/21 V1.8c by Harald Hanche-Olsen and Anders Chr
 istensen
 -- Based on V1.7a by Michael Shell
@@ -26,7 +26,7 @@ istensen
 \@IEEEtrantmptoksA=\toks14
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 373.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+("C:\Program Files (x86)\miktex\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
@@ -99,24 +99,24 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtmpitemindent=\dimen116
 \c@IEEEbiography=\count90
 \@IEEEtranrubishbin=\box26
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+) ("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks15
 \ex@=\dimen117
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen118
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+("C:\Program Files (x86)\miktex\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count91
@@ -157,21 +157,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(C:\Users\HP-Elitebook\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+("C:\Program Files (x86)\miktex\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("C:\Program Files (x86)\miktex\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files (x86)\miktex\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Program Files (x86)\miktex\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Program Files (x86)\miktex\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count103
@@ -186,20 +186,20 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks20
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files (x86)\miktex\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files (x86)\miktex\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
@@ -207,7 +207,7 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
 )
-(C:\Users\HP-Elitebook\repos\ece432\week5\bare_conf.aux)
+(C:\Users\mwoodruf\repo\ece432\week5\bare_conf.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -221,8 +221,7 @@ LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 
-(C:\Users\HP-Elitebook\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mki
-i
+("C:\Program Files (x86)\miktex\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count104
 \scratchdimen=\dimen128
@@ -249,25 +248,25 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 20.
+(Font)              <7> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 20.
+(Font)              <5> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 20.
+(Font)              <8> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 20.
+(Font)              <6> on input line 26.
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--22
+Underfull \hbox (badness 10000) in paragraph at lines 23--28
 
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 17--22
+Underfull \hbox (badness 1484) in paragraph at lines 23--28
 \OT1/ptm/m/n/10 a. In-ves-ti-gate and com-ment on sen-si-tiv-ity of your bias
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--22
+Underfull \hbox (badness 10000) in paragraph at lines 23--28
 
  []
 
@@ -275,14 +274,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--22
 File: pics/DCBiasNetwork.png Graphic file (type png)
 
 <use pics/DCBiasNetwork.png>
-Package pdftex.def Info: pics/DCBiasNetwork.png used on input line 25.
+Package pdftex.def Info: pics/DCBiasNetwork.png used on input line 31.
 (pdftex.def)             Requested size: 247.12695pt x 140.15503pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <pics/DCBiasResults.png, id=3, 1057.70157pt x 227.34938pt>
 File: pics/DCBiasResults.png Graphic file (type png)
 
 <use pics/DCBiasResults.png>
-Package pdftex.def Info: pics/DCBiasResults.png used on input line 31.
+Package pdftex.def Info: pics/DCBiasResults.png used on input line 37.
 (pdftex.def)             Requested size: 222.12389pt x 47.74477pt.
 
 
@@ -292,10 +294,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: pics/SParameterComparison.png Graphic file (type png)
 
 <use pics/SParameterComparison.png>
-Package pdftex.def Info: pics/SParameterComparison.png used on input line 39.
+Package pdftex.def Info: pics/SParameterComparison.png used on input line 45.
 (pdftex.def)             Requested size: 262.69786pt x 175.21973pt.
 
-Overfull \hbox (9.648pt too wide) in paragraph at lines 39--40
+Overfull \hbox (9.648pt too wide) in paragraph at lines 45--46
  [][] 
  []
 
@@ -303,36 +305,41 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ì in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--45
+Underfull \hbox (badness 10000) in paragraph at lines 41--51
 
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 35--45
+Underfull \hbox (badness 1867) in paragraph at lines 41--51
 \OT1/ptm/m/n/10 cir-cuit (same as DC bias net-work; note the ca-pac-i-tors
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--45
+Underfull \hbox (badness 10000) in paragraph at lines 41--51
 
  []
 
 
-Underfull \hbox (badness 4981) in paragraph at lines 35--45
+Underfull \hbox (badness 4981) in paragraph at lines 41--51
 []\OT1/ptm/m/n/10 Figure 4[] shows var-i-ous in-for-ma-tion pro-vided by the
  []
-
-<pics/DesignGuideUnoptimized.png, id=5, 708.39656pt x 506.6428pt>
-File: pics/DesignGuideUnoptimized.png Graphic file (type png)
-
-<use pics/DesignGuideUnoptimized.png>
-Package pdftex.def Info: pics/DesignGuideUnoptimized.png used on input line 48.
-
-(pdftex.def)             Requested size: 247.9425pt x 177.32764pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[1{C:/Users/mwoodruf/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <C:/Users/mwoodruf/repo/ece432/week5/pics/DCBiasNetwork.png> <C:/Users/mwoodru
+f/repo/ece432/week5/pics/DCBiasResults.png> <C:/Users/mwoodruf/repo/ece432/week
+5/pics/SParameterComparison.png>]
+<pics/DesignGuideUnoptimized.png, id=16, 708.39656pt x 506.6428pt>
+File: pics/DesignGuideUnoptimized.png Graphic file (type png)
+
+<use pics/DesignGuideUnoptimized.png>
+Package pdftex.def Info: pics/DesignGuideUnoptimized.png used on input line 54.
+
+(pdftex.def)             Requested size: 247.9425pt x 177.32764pt.
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ì in font ptmr7t!
@@ -343,22 +350,16 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--54
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
 
  []
 
-[1{C:/Users/HP-Elitebook/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
- <C:/Users/HP-Elitebook/repos/ece432/week5/pics/DCBiasNetwork.png> <C:/Users/HP
--Elitebook/repos/ece432/week5/pics/DCBiasResults.png> <C:/Users/HP-Elitebook/re
-pos/ece432/week5/pics/SParameterComparison.png>]
 <pics/DesignGuideStablizedCircuit.png, id=17, 938.75719pt x 483.30562pt>
 File: pics/DesignGuideStablizedCircuit.png Graphic file (type png)
 
 <use pics/DesignGuideStablizedCircuit.png>
 Package pdftex.def Info: pics/DesignGuideStablizedCircuit.png used on input lin
-e 57.
+e 63.
 (pdftex.def)             Requested size: 244.0711pt x 125.6565pt.
 
 <pics/DesignGuideStablizedSimulation.png, id=18, 705.38531pt x 505.89pt>
@@ -366,7 +367,7 @@ File: pics/DesignGuideStablizedSimulation.png Graphic file (type png)
 
 <use pics/DesignGuideStablizedSimulation.png>
 Package pdftex.def Info: pics/DesignGuideStablizedSimulation.png used on input 
-line 63.
+line 69.
 (pdftex.def)             Requested size: 246.88855pt x 177.06415pt.
 
 
@@ -379,32 +380,32 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ì in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--70
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 68--70
+Underfull \hbox (badness 2142) in paragraph at lines 74--76
 []\OT1/ptm/m/n/10 The ca-pac-i-tors and in-duc-tors from Mu-rata were added
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--77
+Underfull \hbox (badness 10000) in paragraph at lines 77--83
 
  []
 
 
-Underfull \hbox (badness 4291) in paragraph at lines 71--77
+Underfull \hbox (badness 4291) in paragraph at lines 77--83
 []\OT1/ptm/m/n/10 Increasing ground in-duc-tion has many ef-fects on the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--77
+Underfull \hbox (badness 10000) in paragraph at lines 77--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--77
+Underfull \hbox (badness 10000) in paragraph at lines 77--83
 
  []
 
@@ -421,7 +422,7 @@ Missing character: There is no ì in font ptmr7t!
 File: pics/FinalStabilizingCircuit.png Graphic file (type png)
 
 <use pics/FinalStabilizingCircuit.png>
-Package pdftex.def Info: pics/FinalStabilizingCircuit.png used on input line 83
+Package pdftex.def Info: pics/FinalStabilizingCircuit.png used on input line 89
 .
 (pdftex.def)             Requested size: 242.67274pt x 167.84206pt.
 
@@ -430,21 +431,21 @@ File: pics/FinalStabilizingSimulation.png Graphic file (type png)
 
 <use pics/FinalStabilizingSimulation.png>
 Package pdftex.def Info: pics/FinalStabilizingSimulation.png used on input line
- 89.
+ 95.
 (pdftex.def)             Requested size: 239.77437pt x 172.84833pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--93
+Underfull \hbox (badness 10000) in paragraph at lines 85--99
 
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 79--93
+Underfull \hbox (badness 1789) in paragraph at lines 85--99
 []\OT1/ptm/m/n/10 Figure 7[] shows the fi-nal-ized sta-bi-liz-ing cir-cuit for 
 the
  []
 
 
-Underfull \hbox (badness 1975) in paragraph at lines 79--93
+Underfull \hbox (badness 1975) in paragraph at lines 85--99
 \OT1/ptm/m/n/10 By ob-serv-ing the $\OML/cmm/m/it/10 mu[]$\OT1/ptm/m/n/10 /$\OM
 L/cmm/m/it/10 mu[]$\OT1/ptm/m/n/10 , the cir-cuit will be
  []
@@ -455,10 +456,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[2 <C:/Users/HP-Elitebook/repos/ece432/week5/pics/DesignGuideUnoptimized.png> <
-C:/Users/HP-Elitebook/repos/ece432/week5/pics/DesignGuideStablizedCircuit.png> 
-<C:/Users/HP-Elitebook/repos/ece432/week5/pics/DesignGuideStablizedSimulation.p
-ng>]
+[2 <C:/Users/mwoodruf/repo/ece432/week5/pics/DesignGuideUnoptimized.png> <C:/Us
+ers/mwoodruf/repo/ece432/week5/pics/DesignGuideStablizedCircuit.png> <C:/Users/
+mwoodruf/repo/ece432/week5/pics/DesignGuideStablizedSimulation.png>]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -472,24 +472,24 @@ Before submitting the final camera ready copy, remember to:
 
 [3
 
- <C:/Users/HP-Elitebook/repos/ece432/week5/pics/FinalStabilizingCircuit.png> <C
-:/Users/HP-Elitebook/repos/ece432/week5/pics/FinalStabilizingSimulation.png>] (
-C:\Users\HP-Elitebook\repos\ece432\week5\bare_conf.aux) ) 
+ <C:/Users/mwoodruf/repo/ece432/week5/pics/FinalStabilizingCircuit.png> <C:/Use
+rs/mwoodruf/repo/ece432/week5/pics/FinalStabilizingSimulation.png>]
+(C:\Users\mwoodruf\repo\ece432\week5\bare_conf.aux) ) 
 Here is how much of TeX's memory you used:
  2929 strings out of 493921
- 42098 string characters out of 3144856
- 107362 words of memory out of 3000000
+ 41799 string characters out of 3146471
+ 106362 words of memory out of 3000000
  6223 multiletter control sequences out of 15000+200000
  34154 words of font info for 68 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 27i,8n,35p,660b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86
-)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
-type1/urw/times/utmr8a.pfb>
-Output written on bare_conf.pdf (3 pages, 357646 bytes).
+ 27i,8n,35p,655b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/mi
+ktex/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/miktex/fonts/type1
+/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/miktex/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb><C:/Program Files (x86)/miktex/fonts/type1/urw/times/utmr8a.p
+fb>
+Output written on bare_conf.pdf (3 pages, 358122 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
