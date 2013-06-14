@@ -13,10 +13,8 @@ Portland, OR 97207}}
 \maketitle
 \IEEEpeerreviewmaketitle
 \begin{abstract}
-This report documents the successful completion of the Spring 2013 ECE 432 FSK design project. Topics covered are the design, simulation, and testing of microwave circuits suitable for operation between 2GHz to 3GHz. Specific circuits discussed include a 10+dB gain block, a Wilkenson power divider, high Q bandpass filters, and diode detectors. These elements were combined and tested to demonstrate that two microwave frequencies seperated by only 200MHz could accurately be differentiated from each other by comparing the output voltage of the diode dectors. The target fequencies of 2.4GHz and 2.6GHz had to be shifted down by 100MHz due to inconsistencies in the filters used. However, when adjusted for this issue, the FSK reciever functioned as desired and successfully differentiated between 2.3GHz and 2.5GHz inputs.
+This report documents the successful completion of the Spring 2013 ECE 432 frequency-shift keying (FSK) design project. Topics covered are the design, simulation, and testing of microwave circuits suitable for operation between 2GHz to 3GHz. Specific circuits discussed include a 10+dB gain block, a Wilkenson power divider, high Q bandpass filters, and diode detectors. These elements were combined and tested to demonstrate that two microwave frequencies seperated by only 200MHz could accurately be differentiated from each other by comparing the output voltage of the diode dectors. The target fequencies of 2.4GHz and 2.6GHz had to be shifted down by 100MHz due to inconsistencies in the filters used. However, when adjusted for this issue, the FSK reciever functioned as desired and successfully differentiated between 2.3GHz and 2.5GHz inputs.
 \end{abstract}
-\section{FSK Receiver Background}
-
 \section{FSK Receiver Design}
 The following sections describe the design and building procedures for each part of the FSK receiver.  At the end, the results are documented and analyzed.
 
@@ -52,7 +50,7 @@ Simulation of the gain block was done using Agilent's Advanced Design System (AD
 \centering
 \includegraphics[width=2.5in]{amplifier_simulation_pics/lnaSchematic.PNG}
 \caption{LNA schematic.}
-\label{fig:LNA_lna_schematic}
+\label{fig:lna_schematic}
 \end{figure}
 
 \section{LNA Lab Results}
@@ -248,7 +246,7 @@ The FSK receiver was built using the results from above and connecting the subci
 \end{figure}
 
 \section{FSK Receveiver Lab Results}
-Table~\ref{tab:fsk24} and Table~\ref{tab:fsk26} show the measured results obtained from the FSK receiver.  The main problems in the design stem from the bandpass filter being off by 100 MHz as well as the mismatch on the diode detector.  Improving these two circuits will yield better results. When displayed graphically, as in Figure \ref{fsk_chart}, it is clear that even with the large S11 of the 2.4GHz diode detector that differentiating between the two frequencies is still possible. These results were acheived with an input power of 0dBm which is much larger than would be likely in a real world application. Much of the gain acheived in the gain block, if not all, was lost in the splitter and filters. While the 3dB loss from the splitter may well be acceptable, the roughly 7dB loss from the filters is quite unacceptable. Future revisions to this design should focus primarily on finding a more efficient filters and properly tuning them to the desired frequencies. After the filtering loss, the next area of improvement for this design would be the the inconsitent S11 measurement of the 2.4GHz diode detector. Acheiving an S11 measurement of closer to -20dB would produce approximately 800mV of margin at the target frequency alone. This margin would allow for additional reduction in input power required for achieving a differentiable output voltage.
+Table~\ref{tab:fsk24} and Table~\ref{tab:fsk26} show the measured results obtained from the FSK receiver.  The main problems in the design stem from the bandpass filter being off by 100 MHz as well as the mismatch on the diode detector.  Improving these two circuits will yield better results. When displayed graphically, as in Figure \ref{fig:fsk_chart}, it is clear that even with the large S11 of the 2.4GHz diode detector that differentiating between the two frequencies is still possible. These results were acheived with an input power of 0dBm which is much larger than would be likely in a real world application. Much of the gain acheived in the gain block, if not all, was lost in the splitter and filters. While the 3dB loss from the splitter may well be acceptable, the roughly 7dB loss from the filters is quite unacceptable. Future revisions to this design should focus primarily on finding a more efficient filters and properly tuning them to the desired frequencies. After the filtering loss, the next area of improvement for this design would be the the inconsitent S11 measurement of the 2.4GHz diode detector. Acheiving an S11 measurement of closer to -20dB would produce approximately 800mV of margin at the target frequency alone. This margin would allow for additional reduction in input power required for achieving a differentiable output voltage.
 
 \begin{table}
 \caption{FSK Receiver 2.4 GHz Frequency Sweep}
@@ -291,6 +289,8 @@ Table~\ref{tab:fsk24} and Table~\ref{tab:fsk26} show the measured results obtain
 Avago Application Note 1124
 \bibitem{payne}
 K. Payne, "Practical RF Amplifier Design Using the Available Gain Procedure and the Advanced Design System EM/Circuit Co-Simulation Capability," Agilent Technologies (5990-3356EN), 2008.
+\bibitem{wiki}
+https://en.wikipedia.org/wiki/Frequency-shift\_keying
 \bibitem{lunan}
 Zhang, Lunan, ECE 532/432 Microwave Circuit Design II Lab TA
 \end{thebibliography}
